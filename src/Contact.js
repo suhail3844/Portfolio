@@ -35,7 +35,7 @@ const Contact = () => {
         <h2 className="text-3xl font-bold text-center mb-8">Contact</h2>
 
         <div className="flex justify-center gap-6 text-3xl mb-8 text-gray-700">
-          <a href="https://wa.me/919876543210" target="_blank" rel="noreferrer" className="hover:text-green-500"><FaWhatsapp /></a>
+          <a href="https://wa.me/+917006837134" target="_blank" rel="noreferrer" className="hover:text-green-500"><FaWhatsapp /></a>
           <a href="https://www.linkedin.com/in/suhail-nazir-taili-a97b752b8/" target="_blank" rel="noreferrer" className="hover:text-blue-600"><FaLinkedin /></a>
           <a href="https://github.com/suhail3844" target="_blank" rel="noreferrer" className="hover:text-black"><FaGithub /></a>
         </div>
